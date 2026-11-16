@@ -20,8 +20,8 @@ sitio de GitHub Pages.
 
 | Ambiente | Repo (remoto local) | URL publicada | Proyecto Supabase |
 |---|---|---|---|
-| Staging | `origin` → `panel-admon-hermeskopio-staging` | https://lhlopezm2.github.io/panel-admon-hermeskopio-staging/ | staging |
-| Prod | `prod` → `panel-admon-hermeskopio-prod` | https://lhlopezm2.github.io/panel-admon-hermeskopio-prod/ | prod |
+| Staging | `origin` → `panel-admon-hermeskopio-staging` | https://poliskopia-sas.github.io/panel-admon-hermeskopio-staging/ | staging |
+| Prod | `prod` → `panel-admon-hermeskopio-prod` | https://poliskopia-sas.github.io/panel-admon-hermeskopio-prod/ | prod |
 
 Este repositorio (`origin`, staging) es la única fuente de verdad — no hay
 una segunda copia del código con su propia historia de git. Promover un
